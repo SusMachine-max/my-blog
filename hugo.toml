@@ -1,0 +1,4 @@
+baseURL = "https://SusMachine-max.github.io/"
+languageCode = "en-us"
+title = "My OES Blog"
+theme = "ananke"
