@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My OES Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My OES Blog</description>
+    <title>My Blog</title>
+    <link>https://susmachine-max.github.io/my-blog/</link>
+    <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2026 19:51:40 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://susmachine-max.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enrollment System Review</title>
-      <link>http://localhost:1313/posts/enrollment-system-review/</link>
+      <link>https://susmachine-max.github.io/my-blog/posts/enrollment-system-review/</link>
       <pubDate>Wed, 14 Jan 2026 19:51:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/enrollment-system-review/</guid>
+      <guid>https://susmachine-max.github.io/my-blog/posts/enrollment-system-review/</guid>
       <description>&lt;h2 id=&#34;using-oes-for-the-second-time&#34;&gt;Using OES for the second time&lt;/h2&gt;&#xA;&lt;p&gt;Going into second semester, I got to experience the Online Enrollment System again, and honestly, I have a lot to say about it. It has been a long time since I first used the system to enroll myself in this university, and now that I am using it again, it made me stop and think: is there really anything to nitpick about it? That question came to mind because, overall, the system feels convenient for me and for many of my fellow students. As yanos, we usually just want things to work smoothly without too much effort, and in that sense, the Online Enrollment System does its job fairly well.&lt;/p&gt;</description>
     </item>
   </channel>

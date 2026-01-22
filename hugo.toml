@@ -1,4 +1,8 @@
-baseURL = "https://SusMachine-max.github.io/"
+baseURL = "https://susmachine-max.github.io/my-blog/"
 languageCode = "en-us"
-title = "My OES Blog"
+title = "My Blog"
+
 theme = "ananke"
+publishDir = "docs"
+
+
