@@ -1,6 +1,6 @@
 baseURL = "https://susmachine-max.github.io/my-blog/"
 languageCode = "en-us"
-title = "My Blog"
+title = "My Blogs"
 
 theme = "ananke"
 publishDir = "docs"
