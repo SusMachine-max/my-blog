@@ -4,7 +4,7 @@ date = 2026-01-22T16:42:38+08:00
 draft = 'false'
 +++
 
-###The First Face-off 
+##The First Face-off 
 
 This essay describes my first impression of a class in my course. It explains my experience during the first meetings and my thoughts about the professor. First impressions are important because they help students understand the learning environment and the teaching style used in the classroom.
 
