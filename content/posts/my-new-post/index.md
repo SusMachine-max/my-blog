@@ -1,5 +1,5 @@
 +++
-title = 'Technopreneurship'
+title = "Technopreneurship"
 date = 2026-01-22T16:42:38+08:00
 draft = 'false'
 +++
