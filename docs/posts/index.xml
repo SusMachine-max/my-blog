@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 16:42:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:14:49 +0800</lastBuildDate>
     <atom:link href="https://susmachine-max.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechnoIdea</title>
+      <link>https://susmachine-max.github.io/my-blog/posts/technoidea/</link>
+      <pubDate>Wed, 11 Feb 2026 21:14:49 +0800</pubDate>
+      <guid>https://susmachine-max.github.io/my-blog/posts/technoidea/</guid>
+      <description>&lt;h2 id=&#34;a-website-to-the-company&#34;&gt;A Website To The Company&lt;/h2&gt;&#xA;&lt;p&gt;During our visits to three different public companies, I observed how daily operations are handled on the ground and how technology, or the lack of it, affects efficiency. The companies included a small but busy ice plant, a retail grocery store, and a local logistics service provider. Each company had steady customer demand and hardworking employees, yet their systems were still highly manual. Orders were written on paper, phone calls were the primary communication method, and scheduling often depended on memory or handwritten logs. While these methods work, they also create delays, confusion, and missed opportunities. From an Information Technology perspective, I saw clear areas where simple but well-designed systems could significantly improve operations.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Technopreneurship</title>
       <link>https://susmachine-max.github.io/my-blog/posts/my-new-post/</link>
