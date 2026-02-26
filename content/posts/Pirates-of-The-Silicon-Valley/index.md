@@ -1,7 +1,6 @@
 +++
 title = 'Pirates of the Silicon Valley'
 date = 2026-02-26T15:18:16+08:00
-draft = true
 +++
 
 ## What are the factors that contributed to the success and failure of Steve Jobs as a technopreneur?
